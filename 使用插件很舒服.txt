@@ -1,4 +1,6 @@
-Android ButterKnife Zelezny
-Lifecycle Sorter
-Gsonformat
-CodeGlance
+Android ButterKnife Zelezny（ButterKnife 注解自动生成）
+Lifecycle Sorter（生命周期排序）
+Gsonformat（根据json字符串生成属性）
+CodeGlance（快速定位代码 代码缩略图）
+Alibaba Java Coding Guidelines（扫描代码规范）
+exynap（自动补全代码）
